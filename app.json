@@ -2,6 +2,11 @@
   "expo": {
     "name": "Currency_Converter",
     "slug": "Currency_Converter",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
