@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Currency_Converter",
-    "slug": "Currency_Converter",
+    "name": "Calculator",
+    "slug": "Calculator",
     "privacy": "public",
     "platforms": [
       "ios",
