@@ -75,7 +75,7 @@ export const initialState = {
         };
       case "percentage":
         return {
-          currentValue: `${parseFloat(state.currentValue) * 0.01}`
+          currentValue: `${parseFloat(state.previousValue) * (parseFloat(state.currentValue) / 100)}`
         };
       default:
         return state;
